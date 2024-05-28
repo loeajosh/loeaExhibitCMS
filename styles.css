@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    padding: 1em;
+}
+
+.media-item {
+    margin-bottom: 2em;
+}
+
+.media-item img, .media-item video {
+    max-width: 100%;
+    height: auto;
+}
